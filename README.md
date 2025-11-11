@@ -1,4 +1,4 @@
-# EEG-Based Servo Motor Control — CS779 Course Project  
+# EEG-Based Servo Motor Control
 
 This repository contains my project for Electronics Club, focused on controlling a **servo motor using EEG (Electroencephalogram) signals**.  
 The project combines **brain–computer interface (BCI)** techniques with **machine learning** and **embedded systems** to translate human brain activity into motor commands.
